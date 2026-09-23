@@ -1,0 +1,12 @@
+# Temporary & Log Files
+*.log
+test_cookie.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
